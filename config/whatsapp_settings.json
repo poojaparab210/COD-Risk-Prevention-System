@@ -1,0 +1,11 @@
+{
+    "response_window_hours": 24,
+    "random_seed": 42,
+    "reply_probabilities": {
+        "yes": 0.40,
+        "no": 0.20,
+        "random": 0.10,
+        "no_reply": 0.30
+    },
+    "languages": ["English", "Hinglish"]
+}

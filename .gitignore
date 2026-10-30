@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+.DS_Store
+
+# Customer-level data
+data/*.csv
+
+# Customer-level decision and simulation logs
+reports/address_validation.csv
+reports/decision_log.csv
+reports/final_decision_log.csv
+reports/whatsapp_simulation.csv

@@ -1,0 +1,9 @@
+
+{
+    "ship_as_is_max": 0.25,
+    "confirmation_max": 0.45,
+    "prepaid_max": 0.65,
+    "prepaid_discount_percent": 5,
+    "minimum_discount": 20,
+    "maximum_discount": 50
+}
