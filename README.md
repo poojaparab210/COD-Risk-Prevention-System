@@ -114,3 +114,8 @@ COD-Risk-Prevention-System/
 ├── DECISION_LOG.md                   # Architectural choices and trade-offs log
 ├── requirements.txt                  # Python dependencies
 └── README.md                         # Project documentation and setup guide
+
+## Author
+**Pooja Parab**
+GitHub: https://github.com/poojaparab210
+Project: https://github.com/poojaparab210/COD-Risk-Prevention-System
